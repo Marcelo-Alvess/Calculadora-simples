@@ -1,0 +1,40 @@
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csprojAssemblyReference.cache
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.frmCalc.resources
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.Properties.Resources.resources
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.GenerateResource.cache
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.CoreCompileInputs.cache
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe.config
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.pdb
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.exe
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.pdb
+D:\1Q\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe.config
+D:\1Q\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe
+D:\1Q\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.pdb
+D:\1Q\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csprojAssemblyReference.cache
+D:\1Q\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.frmCalc.resources
+D:\1Q\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.Properties.Resources.resources
+D:\1Q\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.GenerateResource.cache
+D:\1Q\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.CoreCompileInputs.cache
+D:\1Q\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.exe
+D:\1Q\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.pdb
+H:\DS\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe.config
+H:\DS\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe
+H:\DS\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.pdb
+H:\DS\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csprojAssemblyReference.cache
+H:\DS\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.frmCalc.resources
+H:\DS\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.Properties.Resources.resources
+H:\DS\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.GenerateResource.cache
+H:\DS\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.CoreCompileInputs.cache
+H:\DS\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.exe
+H:\DS\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.pdb
+D:\DS ETEC HORÁCIO\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe.config
+D:\DS ETEC HORÁCIO\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe
+D:\DS ETEC HORÁCIO\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.pdb
+D:\DS ETEC HORÁCIO\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csprojAssemblyReference.cache
+D:\DS ETEC HORÁCIO\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.frmCalc.resources
+D:\DS ETEC HORÁCIO\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.Properties.Resources.resources
+D:\DS ETEC HORÁCIO\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.GenerateResource.cache
+D:\DS ETEC HORÁCIO\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.CoreCompileInputs.cache
+D:\DS ETEC HORÁCIO\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.exe
+D:\DS ETEC HORÁCIO\TP\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.pdb
